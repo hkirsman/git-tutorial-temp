@@ -10,9 +10,14 @@ git checkout --p
 
 ## Rebasing
 
+###  Against master (new main)
 git checkout main # It's the new master!
 git pull origin main
 git rebase -i main
+
+### Last X commits in current branch
+
+git rebase -i HEAD~2
 
 ## Lorem ipsum
 
