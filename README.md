@@ -11,9 +11,9 @@ and also
 
 ## Rebasing
 
-git checkout main # It's the new master!
-git pull origin main
-git rebase -i main
+    git checkout main # It's the new master!
+    git pull origin main
+    git rebase -i main
 
 ## Lorem ipsum
 
