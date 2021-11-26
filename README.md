@@ -1,5 +1,7 @@
 # git-tutorial-temp
 
+# Lorem ipsum
+=======
 ## Patch (Interactively choose hunks of patch to add)
 
     git add --p
@@ -45,6 +47,8 @@ Praesent sollicitudin leo sit amet purus lacinia, vitae placerat velit fermentum
 congue. Sed at lectus dui. Nam quis leo ut augue pretium pulvinar. Quisque ut mollis ligula, nec porttitor lectus.
 Proin sollicitudin placerat felis, non tincidunt neque feugiat id. Phasellus eget tincidunt dui, quis fermentum odio.
 
+# Phasellus
+
 Phasellus nec pellentesque turpis. Morbi vulputate molestie elit, ut rutrum erat scelerisque at.
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus malesuada,
 libero vitae interdum laoreet, ligula sapien luctus arcu, sit amet dapibus urna enim in lorem. Nam et velit quis
@@ -52,6 +56,8 @@ purus consequat aliquam. Morbi sit amet feugiat ligula. Quisque consequat urna n
 eget sagittis metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 Pellentesque gravida vulputate luctus. Donec blandit metus ac leo ullamcorper laoreet. Aenean sed ipsum nec elit porta
 scelerisque.
+
+# Urabitur 2
 
 urabitur ut erat eu tellus aliquam tincidunt quis sit amet dolor. Nullam vestibulum velit tellus, eu dapibus
 purus faucibus sed. Aliquam erat volutpat. Phasellus in turpis laoreet, rhoncus leo at, dignissim est. Integer
