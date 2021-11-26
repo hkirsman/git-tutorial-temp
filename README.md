@@ -2,11 +2,12 @@
 
 ## Patch (Interactively choose hunks of patch to add)
 
-git add --p
-or
-git add --patch
+    git add --p
+    git add --patch
 
-git checkout --p
+and also
+
+    git checkout --p
 
 ## Rebasing
 
