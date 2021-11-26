@@ -11,10 +11,10 @@ sodales neque. Duis egestas quam nec diam scelerisque sollicitudin. In hac habit
 dictumst. Nullam cursus cursus mauris quis suscipit. Nulla imperdiet ullamcorper velit. Sed
 vulputate arcu eu rhoncus gravida. Fusce nec luctus ipsum.
 
-Sed porttitor justo turpis, vel porttitor tortor luctus sit amet. Quisque porttitor sem id enim
+Sed porttitor justo turpis. Vel porttitor tortor luctus sit amet. Quisque porttitor sem id enim
 semper, nec accumsan nunc consectetur. Nam fringilla ultricies tortor, at feugiat nulla sodales
 ut. Vivamus tempus cursus volutpat. Nulla urna mauris, tincidunt sit amet sem sit amet, mollis
-facilisis orci. Donec vestibulum eros vel ultrices blandit. Duis sagittis rhoncus magna quis blandit.
+facilisis orci. Donec vestibulum eros vel ultrices blandit.
 
 Donec ac augue lectus. Fusce id blandit nisl. Vivamus a volutpat ipsum. In sit amet enim lorem.
 Sed iaculis nulla at odio ornare auctor. Cras quis dui bibendum, molestie elit et, blandit ligula.
