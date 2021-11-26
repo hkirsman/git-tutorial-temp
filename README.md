@@ -1,5 +1,21 @@
 # git-tutorial-temp
 
+## Patch (Interactively choose hunks of patch to add)
+
+git add --p
+or
+git add --patch
+
+git checkout --p
+
+## Rebasing
+
+git checkout main # It's the new master!
+git pull origin main
+git rebase -i main
+
+## Lorem ipsum
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer egestas venenatis tortor, eu
 dignissim nisi tristique vitae. Donec dolor eros, tincidunt sit amet auctor quis, pretium nec
 nulla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
@@ -38,3 +54,6 @@ mattis ipsum eu tortor molestie, eu tincidunt orci accumsan. Praesent non ligula
 id ullamcorper erat, efficitur tempus dolor. Aliquam felis lacus, mattis at porttitor eget, facilisis at magna.
 
 Ultricies et enim et, aliquam consequat felis.
+
+ligula sapien luctus arcu, sit amet dapibus urna enim in lorem. Nam et velit quis
+purus consequat aliquam. Morbi.
