@@ -2,22 +2,24 @@
 
 ## Patch (Interactively choose hunks of patch to add)
 
-git add --p
-or
-git add --patch
+    git add --p
+    git add --patch
 
-git checkout --p
+and also
+
+    git checkout --p
 
 ## Rebasing
 
 ###  Against master (new main)
-git checkout main # It's the new master!
-git pull origin main
-git rebase -i main
+
+    git checkout main # It's the new master!
+    git pull origin main
+    git rebase -i main
 
 ### Last X commits in current branch
 
-git rebase -i HEAD~2
+    git rebase -i HEAD~2
 
 ## Lorem ipsum
 
