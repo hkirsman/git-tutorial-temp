@@ -1,6 +1,29 @@
 # git-tutorial-temp
 
 # Lorem ipsum
+=======
+## Patch (Interactively choose hunks of patch to add)
+
+    git add --p
+    git add --patch
+
+and also
+
+    git checkout --p
+
+## Rebasing
+
+###  Against master (new main)
+
+    git checkout main # It's the new master!
+    git pull origin main
+    git rebase -i main
+
+### Last X commits in current branch
+
+    git rebase -i HEAD~2
+
+## Lorem ipsum
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer egestas venenatis tortor, eu
 dignissim nisi tristique vitae. Donec dolor eros, tincidunt sit amet auctor quis, pretium nec
@@ -42,3 +65,8 @@ lectus risus, ultricies et enim et, aliquam consequat felis. Praesent venenatis 
 eleifend felis. Fusce posuere id erat vel gravida. Duis at nisl sed dui condimentum efficitur ut sit amet nibh. Sed
 mattis ipsum eu tortor molestie, eu tincidunt orci accumsan. Praesent non ligula vel nisl eleifend congue. Integer
 id ullamcorper erat, efficitur tempus dolor. Aliquam felis lacus, mattis at porttitor eget, facilisis at magna.
+
+Ultricies et enim et, aliquam consequat felis.
+
+ligula sapien luctus arcu, sit amet dapibus urna enim in lorem. Nam et velit quis
+purus consequat aliquam. Morbi.
